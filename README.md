@@ -8,7 +8,9 @@ finalised the PCB traces and design
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3df64d4d-5d6d-4e38-b574-17252bcd5aef" />
 
 the assembly file 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d7d5b59d-302b-4fb0-b3ee-352d9341d332" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6dbdcb07-0030-4008-b3c1-a39b0d62e570" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a85dc326-5689-42e4-b735-05fa6dc0d80f" />
+
 
 made the case in a single piece and with mounts for m3 screws so that it stays in place 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f9a9ab2b-01f3-485f-a980-55f182d73e0b" />
