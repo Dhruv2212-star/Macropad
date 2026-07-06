@@ -15,11 +15,11 @@ the assembly file
 made the case in a single piece and with mounts for m3 screws so that it stays in place 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f9a9ab2b-01f3-485f-a980-55f182d73e0b" />
 
-Bill of material-
-1. Mx mechanical switches  X9
-2. Seeed XIAO RP2040 microcontroller X1
-3. 1N4148 diodes X9
-5. M3×5×4mm heatset inserts X3
-6. M3 screws X3
-7. Key caps X9
+Bill of material-                    |Qty| Cost 
+1. Mx mechanical switches            | 9 | $5.23
+2. Seeed XIAO RP2040 microcontroller | 1 | $14.15
+3. 1N4148 diodes                     | 9 | $1.14
+5. M3×5×4mm heatset inserts          | 3 | $2.61 | 249 INR
+6. M3 screws                         | 3 | 
+7. Key caps                          | 9 | 3d printed 
    
