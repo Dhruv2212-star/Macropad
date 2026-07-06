@@ -16,7 +16,7 @@ made the case in a single piece and with mounts for m3 screws so that it stays i
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f9a9ab2b-01f3-485f-a980-55f182d73e0b" />
 
 Bill of material---------------------|Qty| Cost 
-1. Mx mechanical switches------------| 9 | $5.23
+1. Mx mechanical switches------------| 9 | $3.79
 2. Seeed XIAO RP2040 microcontroller-| 1 | $14.15
 3. 1N4148 diodes---------------------| 9 | $1.14
 5. M3×5×4mm heatset inserts----------| 3 | $2.61 
