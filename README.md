@@ -9,6 +9,7 @@ the project is split into 2 parts:
 
 PCB designing- is done on kicad where you first make a schematic of the components and you then route the traces to finalise the PCB 
 CAD- the case is made using CAD software, it is designed for the pcb to be exposed to keep a hobbyst vibe and also minimal plastic ussage
+
 both of these come together with m3 screws and heat inserts embeded into the PLA case 
 
 
