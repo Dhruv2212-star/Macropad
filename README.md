@@ -1,7 +1,18 @@
-I made a very simple 3x3 macropad which i will use for shortcuts in games and other things 
-and i kept the upper part of the macropad open for the PCB to be visible to give it a very "hobbyst" vibe
+this summer vacation i got to know about hackclub's programs and i decided to take up a challenge to stop bed rotting and learn something new and i found the perfect starting project,
+i learnt many skills here such as PCB making, CAD skills and slight firmware making skills. it gave me new set of skills that i'll be using for future projects!
 
-made the sketch in kicad 
+the project i made uses 3x3 key layout in which we can set each key to have a custom function
+
+the project is split into 2 parts:
+1. PCB designing
+2. CAD designing
+
+PCB designing- is done on kicad where you first make a schematic of the components and you then route the traces to finalise the PCB 
+CAD- the case is made using CAD software, it is designed for the pcb to be exposed to keep a hobbyst vibe and also minimal plastic ussage
+both of these come together with m3 screws and heat inserts embeded into the PLA case 
+
+
+Made the sketch in kicad 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a8357253-1537-4497-9fd2-3f0a152eb422" />
 
 finalised the PCB traces and design 
@@ -15,11 +26,3 @@ the assembly file
 made the case in a single piece and with mounts for m3 screws so that it stays in place 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f9a9ab2b-01f3-485f-a980-55f182d73e0b" />
 
-Bill of material---------------------|Qty| Cost 
-1. Mx mechanical switches------------| 9 | $3.79
-2. Seeed XIAO RP2040 microcontroller-| 1 | $14.15
-3. 1N4148 diodes---------------------| 9 | $1.14
-5. M3×5×4mm heatset inserts----------| 3 | $2.61 
-6. M3 screws-------------------------| 3 | 
-7. Key caps--------------------------| 9 | 3d printed 
-   
