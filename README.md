@@ -24,6 +24,9 @@ the assembly file
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a85dc326-5689-42e4-b735-05fa6dc0d80f" />
 
 
-made the case in a single piece and with mounts for m3 screws so that it stays in place 
+Made the case in a single piece and with mounts for m3 screws so that it stays in place 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f9a9ab2b-01f3-485f-a980-55f182d73e0b" />
+Made the Top case 
+<img width="1366" height="721" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/415ff067-0892-4548-a096-38a1f6dbc142" />
+
 
